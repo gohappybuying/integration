@@ -1,6 +1,6 @@
 <?php
 
-    $my_verify_token="225639885HP";
+    $my_verify_token="225639885CHD";
 
     echo $my_verify_token;
 
